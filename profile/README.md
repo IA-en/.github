@@ -14,45 +14,7 @@ Suplemento de *La Biblia de la IA — The Bible of AI*™ · ISSN 2695-6411
 
 </div>
 
-<details>
-<summary><strong>🌐 Traducir esta página / Translate this page</strong></summary>
-
-<br>
-
-[English](https://lectura-sv.itvia.online/ia-en/?itvia_lang=en) ·
-[Français](https://lectura-sv.itvia.online/ia-en/?itvia_lang=fr) ·
-[Deutsch](https://lectura-sv.itvia.online/ia-en/?itvia_lang=de) ·
-[Italiano](https://lectura-sv.itvia.online/ia-en/?itvia_lang=it) ·
-[Português](https://lectura-sv.itvia.online/ia-en/?itvia_lang=pt) ·
-[Català](https://lectura-sv.itvia.online/ia-en/?itvia_lang=ca) ·
-[Galego](https://lectura-sv.itvia.online/ia-en/?itvia_lang=gl) ·
-[Euskara](https://lectura-sv.itvia.online/ia-en/?itvia_lang=eu) ·
-[Nederlands](https://lectura-sv.itvia.online/ia-en/?itvia_lang=nl) ·
-[Polski](https://lectura-sv.itvia.online/ia-en/?itvia_lang=pl) ·
-[Română](https://lectura-sv.itvia.online/ia-en/?itvia_lang=ro) ·
-[Čeština](https://lectura-sv.itvia.online/ia-en/?itvia_lang=cs) ·
-[Ελληνικά](https://lectura-sv.itvia.online/ia-en/?itvia_lang=el) ·
-[Українська](https://lectura-sv.itvia.online/ia-en/?itvia_lang=uk) ·
-[Русский](https://lectura-sv.itvia.online/ia-en/?itvia_lang=ru) ·
-[Türkçe](https://lectura-sv.itvia.online/ia-en/?itvia_lang=tr) ·
-[العربية](https://lectura-sv.itvia.online/ia-en/?itvia_lang=ar) ·
-[עברית](https://lectura-sv.itvia.online/ia-en/?itvia_lang=he) ·
-[فارسی](https://lectura-sv.itvia.online/ia-en/?itvia_lang=fa) ·
-[हिन्दी](https://lectura-sv.itvia.online/ia-en/?itvia_lang=hi) ·
-[বাংলা](https://lectura-sv.itvia.online/ia-en/?itvia_lang=bn) ·
-[简体中文](https://lectura-sv.itvia.online/ia-en/?itvia_lang=zh-CN) ·
-[繁體中文](https://lectura-sv.itvia.online/ia-en/?itvia_lang=zh-TW) ·
-[日本語](https://lectura-sv.itvia.online/ia-en/?itvia_lang=ja) ·
-[한국어](https://lectura-sv.itvia.online/ia-en/?itvia_lang=ko) ·
-[Bahasa Indonesia](https://lectura-sv.itvia.online/ia-en/?itvia_lang=id) ·
-[Tiếng Việt](https://lectura-sv.itvia.online/ia-en/?itvia_lang=vi) ·
-[ไทย](https://lectura-sv.itvia.online/ia-en/?itvia_lang=th) ·
-[Svenska](https://lectura-sv.itvia.online/ia-en/?itvia_lang=sv) ·
-[Dansk](https://lectura-sv.itvia.online/ia-en/?itvia_lang=da) ·
-[Norsk](https://lectura-sv.itvia.online/ia-en/?itvia_lang=no) ·
-[Suomi](https://lectura-sv.itvia.online/ia-en/?itvia_lang=fi)
-
-</details>
+**[🌐 Leer esta página en otros idiomas / Read this page in other languages](https://lectura-sv.itvia.online/ia-en/)**
 
 ---
 
