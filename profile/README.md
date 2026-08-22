@@ -1,4 +1,5 @@
-**[🌐 Leer IA eñ en español y traducir / Read and translate IA eñ](https://lectura-sv.itvia.online/ia-en/)**
+> [!TIP]
+> 🌐 **[Leer IA eñ en español y traducir / Read and translate IA eñ](https://lectura-sv.itvia.online/ia-en/)**
 
 ---
 
