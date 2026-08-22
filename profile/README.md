@@ -1,3 +1,7 @@
+**[🌐 Leer IA eñ en español y traducir / Read and translate IA eñ](https://lectura-sv.itvia.online/ia-en/)**
+
+---
+
 <div align="center">
 
 <a href="https://www.itvia.online/ciencia-problemas-residuales-y-proyecciones">
@@ -13,8 +17,6 @@ Suplemento de *La Biblia de la IA — The Bible of AI*™ · ISSN 2695-6411
 [itvia.online](https://www.itvia.online/) · [editorialia.com](https://editorialia.com/) · [openscience.online](https://www.openscience.online/)
 
 </div>
-
-**[🌐 Leer esta página en otros idiomas / Read this page in other languages](https://lectura-sv.itvia.online/ia-en/)**
 
 ---
 
